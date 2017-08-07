@@ -1,0 +1,11 @@
+{
+  "name": "fnxnet/phpunit-helper",
+  "autoload": {
+    "psr-0": {
+      "Fnxnet\\Unit": "src"
+    }
+  },
+  "require": {
+    "monolog/monolog": "^1.23"
+  }
+}
