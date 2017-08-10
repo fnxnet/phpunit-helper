@@ -1,8 +1,8 @@
 {
   "name": "fnxnet/phpunit-helper",
   "autoload": {
-    "psr-0": {
-      "Fnx\\Unit": "src"
+    "psr-4": {
+      "Fnx\\Unit\\": "src"
     }
   },
   "require": {
